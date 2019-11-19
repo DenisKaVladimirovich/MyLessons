@@ -1,0 +1,2 @@
+Основные Коллекции (List, Dictionary, Queue, Stack)
+Классы работы со множествами (HashSet, SortedSet)

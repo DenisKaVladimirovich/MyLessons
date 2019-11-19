@@ -1,0 +1,6 @@
+Enitity Framework Core
+Создание модели даннх: DbContext
+Тюнинг модели данных с помощью Data Annotation атрибутов
+Тюнинг модели данных с помощью Fluent API
+Работа с Миграциями
+Scaffolding (reverse engineering)

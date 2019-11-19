@@ -1,0 +1,9 @@
+ADO.NET Core
+Работа с БД "напрямую"
+Строка подключения (connection string)
+Установка соединения (SqlConnection)
+Выполнение команд (SqlCommand)
+Различные типы команд (SqlCommandType: CommandText, StoredProcedure)
+Параметры команд (SqlParameter)
+Чтение результатов выполнеия запроса (SqlDataReader)
+Управление транзакиями (SqlTransaction)

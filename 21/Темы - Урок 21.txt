@@ -1,0 +1,8 @@
+HTTP
+HTML
+REST API
+Tools: Fiddler, Postman
+"Пустой" шаблон web-приложения ASP.NET Core
+Request Pipeline
+Middleware
+Environments

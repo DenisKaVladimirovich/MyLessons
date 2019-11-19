@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/numberOfPointsOfInterest",
+		"value": 4
+	}
+]

@@ -1,0 +1,5 @@
+Базы данных
+Системы управления базами данных
+MS SQL Server Express
+Типы данных MS SQL Server
+Написание SQL-запросов в MS SQL Server Management Studio
