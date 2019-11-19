@@ -1,0 +1,10 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\bin\Debug\netcoreapp2.1\L08_HW1_solution_2.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\bin\Debug\netcoreapp2.1\L08_HW1_solution_2.runtimeconfig.json
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\bin\Debug\netcoreapp2.1\L08_HW1_solution_2.runtimeconfig.dev.json
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\bin\Debug\netcoreapp2.1\L08_HW1_solution_2.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\bin\Debug\netcoreapp2.1\L08_HW1_solution_2.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\obj\Debug\netcoreapp2.1\L08_HW1_solution_2.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\obj\Debug\netcoreapp2.1\L08_HW1_solution_2.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\obj\Debug\netcoreapp2.1\L08_HW1_solution_2.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\obj\Debug\netcoreapp2.1\L08_HW1_solution_2.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\08\Lesson_08_HomeWork\L08_HW1_solution_2\obj\Debug\netcoreapp2.1\L08_HW1_solution_2.pdb
