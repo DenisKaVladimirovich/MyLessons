@@ -1,0 +1,11 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\bin\Debug\netcoreapp2.1\L13_C02_abstract_class.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\bin\Debug\netcoreapp2.1\L13_C02_abstract_class.runtimeconfig.json
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\bin\Debug\netcoreapp2.1\L13_C02_abstract_class.runtimeconfig.dev.json
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\bin\Debug\netcoreapp2.1\L13_C02_abstract_class.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\bin\Debug\netcoreapp2.1\L13_C02_abstract_class.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\13\Lesson_13_ClassWork\L13_C02_abstract_class\obj\Debug\netcoreapp2.1\L13_C02_abstract_class.pdb

@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\vislobokov.adm\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\14\\Lesson_14_ClassWork\\L14_C02_interface_IDisposable_using\\L14_C02_interface_IDisposable_using.csproj",
+      "projectName": "L14_C02_interface_IDisposable_using",
+      "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\14\\Lesson_14_ClassWork\\L14_C02_interface_IDisposable_using\\L14_C02_interface_IDisposable_using.csproj",
+      "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\14\\Lesson_14_ClassWork\\L14_C02_interface_IDisposable_using\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

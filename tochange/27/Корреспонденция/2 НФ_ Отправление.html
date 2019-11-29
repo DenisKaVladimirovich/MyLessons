@@ -1,0 +1,39 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
+<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s2{border-right: none;background-color:#fff2cc;text-align:left;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s3{background-color:#ffffff;text-align:right;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{background-color:#d9ead3;text-align:left;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{background-color:#fff2cc;text-align:left;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s4{background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}</style><div class="ritz grid-container" dir="ltr"><table class="waffle" cellspacing="0" cellpadding="0"><thead><tr><th class="row-header freezebar-vertical-handle"></th><th id="811820563C0" style="width:134px" class="column-headers-background">A</th><th id="811820563C1" style="width:158px" class="column-headers-background">B</th><th id="811820563C2" style="width:104px" class="column-headers-background">C</th></tr></thead><tbody><tr style='height:20px;'><th id="811820563R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;">1</div></th><td class="s0 softmerge" dir="ltr"><div class="softmerge-inner" style="width: 131px; left: -1px;">Идентификатор, ПК</div></td><td class="s1" dir="ltr">Наименование</td><td class="s2 softmerge" dir="ltr"><div class="softmerge-inner" style="width: 202px; left: -1px;">Число страниц</div></td></tr><tr><th style="height:3px" class="freezebar-cell freezebar-horizontal-handle"></th><td class="freezebar-cell"></td><td class="freezebar-cell"></td><td class="freezebar-cell"></td></tr><tr style='height:20px;'><th id="811820563R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;">2</div></th><td class="s3" dir="ltr">1</td><td class="s4" dir="ltr">Программа курса</td><td class="s3" dir="ltr">364</td></tr><tr style='height:20px;'><th id="811820563R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;">3</div></th><td class="s3" dir="ltr">2</td><td class="s4 softmerge" dir="ltr"><div class="softmerge-inner" style="width: 155px; left: -1px;">Рецензния на программу</div></td><td class="s3" dir="ltr">7</td></tr></tbody></table></div>
+<script type='text/javascript' nonce='B3tBw3FabgI+jYPNjBNVoQ'>
+function posObj(sheet, id, row, col, x, y) {
+  var rtl = false;
+  var sheetElement = document.getElementById(sheet);
+  if (!sheetElement) {
+    sheetElement = document.getElementById(sheet + '-grid-container');
+  }
+  if (sheetElement) {
+    rtl = sheetElement.getAttribute('dir') == 'rtl';
+  }
+  var r = document.getElementById(sheet+'R'+row);
+  var c = document.getElementById(sheet+'C'+col);
+  if (r && c) {
+    var objElement = document.getElementById(id);
+    var s = objElement.style;
+    var t = y;
+    while (r && r != sheetElement) {
+      t += r.offsetTop;
+      r = r.offsetParent;
+    }
+    var offsetX = x;
+    while (c && c != sheetElement) {
+      offsetX += c.offsetLeft;
+      c = c.offsetParent;
+    }
+    if (rtl) {
+      offsetX -= objElement.offsetWidth;
+    }
+    s.left = offsetX + 'px';
+    s.top = t + 'px';
+    s.display = 'block';
+    s.border = '1px solid #000000';
+  }
+};
+function posObjs() {
+};
+posObjs();</script>
