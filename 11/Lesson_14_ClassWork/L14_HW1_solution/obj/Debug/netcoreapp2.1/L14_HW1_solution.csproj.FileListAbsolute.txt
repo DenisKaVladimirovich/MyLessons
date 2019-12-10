@@ -1,0 +1,11 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\bin\Debug\netcoreapp2.1\L14_HW1_solution.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\bin\Debug\netcoreapp2.1\L14_HW1_solution.runtimeconfig.json
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\bin\Debug\netcoreapp2.1\L14_HW1_solution.runtimeconfig.dev.json
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\bin\Debug\netcoreapp2.1\L14_HW1_solution.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\bin\Debug\netcoreapp2.1\L14_HW1_solution.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\14\Lesson_14_ClassWork\L14_HW1_solution\obj\Debug\netcoreapp2.1\L14_HW1_solution.pdb

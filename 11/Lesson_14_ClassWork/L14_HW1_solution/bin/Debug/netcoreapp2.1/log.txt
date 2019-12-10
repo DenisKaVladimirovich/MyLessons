@@ -1,0 +1,8 @@
+2019-12-05T08:21:42+0000	Info	Test information message
+2019-12-05T08:21:42+0000	Warning	Test warning message
+2019-12-05T08:21:42+0000	Error	Test error message
+2019-12-05T08:41:56+0000	Info	Test information message
+2019-12-05T08:41:56+0000	Warning	Test warning message
+2019-12-05T08:41:56+0000	Error	Test error message
+2019-12-05T08:42:46+0000	Info	Test information message
+2019-12-05T08:42:46+0000	Warning	Test warning message
